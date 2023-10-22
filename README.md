@@ -1,4 +1,4 @@
-#React Favourite Food App
+###React Favourite Food App
 #This is a simple React application that allows users to select their favorite food item from a list. Once a food item is clicked, it is displayed as the favorite food.
 
 #How to Use
